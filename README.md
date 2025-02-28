@@ -19,6 +19,10 @@ tbd
 
 - [Tableau](https://www.tableau.com/)
 
+### Midterm Project
+
+* Published on Tableau Public: [Midterm Project](https://public.tableau.com/app/profile/florian.schwanz/viz/lesson4-midterm-project/PopulationGrowth)
+
 ## Contact
 
 florian.schwanz@gmail.com
